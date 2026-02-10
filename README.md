@@ -107,7 +107,7 @@ const tarun = {
   </tr>
   <tr>
     <td><b>🌐 Portfolio</b></td>
-    <td>Coming Soon</td>
+    <td><a href="https://www.tarundhiman.dev/">tarundhiman.dev</a></td>
   </tr>
 </table>
 
