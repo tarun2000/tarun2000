@@ -1,88 +1,128 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hey,+I'm+Tarun+Dhiman;Full+Stack+Dev+%7C+DevOps+Learner;Cloud+Explorer+%7C+UI+Enthusiast&center=true&width=500&height=50&pause=1000&color=FF6EC7&vCenter=true" alt="Typing Animation" />
-</h1>
+<div align="left">
 
-<p align="center">
-  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="250"/>
-</p>
+# 👨‍💻 Tarun Dhiman
 
-<p align="center">
-  <b>💻 Software Engineer | 🚀 React Wizard | ⚙️ DevOps Explorer</b>
-</p>
+```diff
++ Software Engineer building web applications with React, Node.js, and modern web technologies.
+```
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarun-dhiman-dev/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:tarundhiman.workmail@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=tarun2000&color=blueviolet&style=flat)
+
+</div>
+
+---
+
+## 🚀 About
+
+I'm a full-stack developer focused on creating clean, performant applications. Currently exploring DevOps practices and cloud infrastructure while shipping production-ready software.
+
+```javascript
+const tarun = {
+    location: "India",
+    role: "Software Engineer",
+    focus: ["Web Development", "Cloud", "DevOps"],
+    currentlyLearning: ["Docker", "Kubernetes", "System Design"]
+};
+```
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,tailwind,html,css,postgres,docker,linux,git,github,vercel,netlify&perline=8" />
-</p>
+<details open>
+<summary><b>Languages & Frameworks</b></summary>
+<br>
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>Databases & Tools</b></summary>
+<br>
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+</details>
+
+<details open>
+<summary><b>Platforms</b></summary>
+<br>
+
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white)
+
+</details>
 
 ---
 
-## 📈 GitHub Stats
+## 💼 Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tarun2000&theme=tokyonight&show_icons=true&hide_border=true&bg_color=0d1117" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarun2000&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" width="48%" />
-</p>
+> ### 🧠 Executive Insights
+> High-performance analytics dashboard built with React and QlikSense. Designed as a fast alternative to traditional BI tools.
+> 
+> `React` `QlikSense` `Data Visualization`
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tarun2000&theme=tokyonight&hide_border=true&background=0D1117" width="95%"/>
-</p>
+> ### 🔐 Admin Portal
+> Role-based access control system for managing internal application permissions. Built with Node.js and PostgreSQL.
+> 
+> `Node.js` `PostgreSQL` `Authentication` `RBAC`
 
----
-
-## 🧠 Developer Metrics
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tarun2000&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tarun2000&theme=radical&row=1&column=7" />
-</p>
+> ### 💬 Yapper Chat
+> Real-time chat application using WebSockets. Deployed on Railway and Netlify.  
+> → **[Live Demo](https://yapper.netlify.app)**
+> 
+> `WebSockets` `React` `Railway` `Netlify`
 
 ---
 
-## ⌛ WakaTime Activity
+## 📊 GitHub Activity
 
-> ⏱️ *Live coding stats powered by WakaTime*
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tarun2000&theme=tokyonight&hide_border=true&background=1a1b27&stroke=70a5fd&ring=bf91f3&fire=ffaa00&currStreakLabel=38bdae)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=tarun2000&theme=tokyonight&layout=compact" />
-</p>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tarun2000&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=ffaa00&area=true&area_color=bf91f3)
 
 ---
 
-## ✨ Pinned Projects
+## 📫 Contact
 
-- 🧠 **Executive Insights** – Lightning-fast React + QlikSense dashboard alternative  
-- 🔐 **Admin Portal** – Role-based access system for internal apps  
-- 💬 **Yapper Chat** – WebSocket-powered real-time chat (Deployed: Railway & Netlify)
-
----
-
-## 🔮 Quote of the Day
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-
----
-
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/tarun-dhiman-dev/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:tarundhiman.workmail@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+<table>
+  <tr>
+    <td><b>💼 LinkedIn</b></td>
+    <td><a href="https://www.linkedin.com/in/tarun-dhiman-dev/">tarun-dhiman-dev</a></td>
+  </tr>
+  <tr>
+    <td><b>📧 Email</b></td>
+    <td><a href="mailto:tarundhiman.workmail@gmail.com">tarundhiman.workmail@gmail.com</a></td>
+  </tr>
+  <tr>
+    <td><b>🌐 Portfolio</b></td>
+    <td>Coming Soon</td>
+  </tr>
+</table>
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
-  <b>✨ Always Building | 💡 Always Learning | 🔧 Always Improving</b>
-  <br/>
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
-</p>
+<div align="center">
+
+```ascii
+╔══════════════════════════════════════════════════════╗
+║  💻 Building better software, one commit at a time  ║
+╚══════════════════════════════════════════════════════╝
+```
+
+![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red?style=flat)
+![Code](https://img.shields.io/badge/Code-Every%20Day-blueviolet?style=flat)
+![Coffee](https://img.shields.io/badge/Powered%20by-Coffee-brown?style=flat)
+
+</div>
